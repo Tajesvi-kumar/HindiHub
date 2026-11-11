@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "hindihub-online",
     "public": "public",
     "ignore": [
       "firebase.json",
